@@ -3,7 +3,7 @@ import 'kalkulator.dart';
 import 'ganjilgenap.dart';
 
 void main() => runApp(const MyApp());
-//aku ganteng
+//aku ganteng banget anak mamah
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
